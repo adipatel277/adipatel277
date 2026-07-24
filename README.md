@@ -75,14 +75,4 @@ A responsive fitness dashboard for tracking workouts, calories, weekly goals, an
 
 ---
 
-## 📫 Contact
-
-📧 Email: adipatel277@yahoo.com
-
-💼 LinkedIn:
-(Add your LinkedIn URL)
-
-🐙 GitHub:
-https://github.com/adipatel277
-
 Thanks for visiting my profile!
