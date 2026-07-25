@@ -1,13 +1,15 @@
 ![Aditya Patel Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0F4C81&text=Aditya%20Patel&fontColor=FFFFFF&fontSize=60&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20Graduate%20|%20Full-Stack%20Developer&descSize=24&descAlignY=62)
-
+![Profile Views](https://komarev.com/ghpvc/?username=adipatel277&color=0F4C81&style=flat)
 ## 👋 Welcome to My GitHub
 
-Computer Science graduate from the University of Illinois Chicago passionate about building full-stack applications, backend systems, and modern web technologies.
+I'm a Computer Science graduate from the University of Illinois Chicago with a passion for building modern full-stack applications, backend systems, and scalable software solutions.
 
-### 💻 Computer Science Graduate | Full-Stack Developer | Chicago, IL
+💼 Seeking **Full-Time Software Engineer** opportunities.
 
 
-I'm currently looking for **Full-Time Software Engineer** opportunities.
+## 🚀 Currently Working With
+
+Java • Python • React • TypeScript • Node.js • C++
 
 ---
 
@@ -75,5 +77,11 @@ A responsive fitness dashboard for tracking workouts, calories, weekly goals, an
 - 🚀 Contribute to Open Source
 
 ---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipatel277&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adipatel277&layout=compact&theme=github_dark&hide_border=true)
 
 Thanks for visiting my profile!
