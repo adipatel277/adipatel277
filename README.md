@@ -1,12 +1,11 @@
 ![Aditya Patel Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0F4C81&text=Aditya%20Patel&fontColor=FFFFFF&fontSize=60&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20Graduate%20|%20Full-Stack%20Developer&descSize=24&descAlignY=62)
 
-# Hi there, I'm Aditya Patel 👋
+## 👋 Welcome to My GitHub
+
+Computer Science graduate from the University of Illinois Chicago passionate about building full-stack applications, backend systems, and modern web technologies.
 
 ### 💻 Computer Science Graduate | Full-Stack Developer | Chicago, IL
 
-Welcome to my GitHub!
-
-I'm a Computer Science graduate from the **University of Illinois Chicago** passionate about building modern web applications and solving real-world problems through software.
 
 I'm currently looking for **Full-Time Software Engineer** opportunities.
 
