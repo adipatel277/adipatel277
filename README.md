@@ -1,3 +1,5 @@
+![Aditya Patel Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0F4C81&text=Aditya%20Patel&fontColor=FFFFFF&fontSize=60&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20Graduate%20|%20Full-Stack%20Developer&descSize=24&descAlignY=62)
+
 # Hi there, I'm Aditya Patel 👋
 
 ### 💻 Computer Science Graduate | Full-Stack Developer | Chicago, IL
