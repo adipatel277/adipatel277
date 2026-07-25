@@ -53,6 +53,9 @@ A responsive task management application that allows users to create, organize, 
 - Express
 - PostgreSQL
 
+🔗 **Repository:**  
+https://github.com/adipatel277/focusboard-task-manager
+
 ---
 
 ### 💪 Pulse Fitness Tracker
@@ -65,6 +68,9 @@ A responsive fitness dashboard for tracking workouts, calories, weekly goals, an
 - TypeScript
 - CSS
 - Local Storage
+
+🔗 **Repository:**  
+https://github.com/adipatel277/pulse-fitness-tracker
 
 ---
 
